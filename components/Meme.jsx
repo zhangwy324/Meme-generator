@@ -42,7 +42,7 @@ export default function Meme() {
       [name]: value,
     }));
   };
-
+  console.log(meme);
   return (
     <main>
       <div className="form">
