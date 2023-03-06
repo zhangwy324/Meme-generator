@@ -7,3 +7,5 @@ Instructions:
 - Run `npm install`
 - Run `npm run dev`
 - Open the page and have fun!
+
+![pageImg](https://user-images.githubusercontent.com/97468260/222993817-42bb1711-5c39-40eb-b328-9231e834706d.PNG)
