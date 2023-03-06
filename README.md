@@ -8,4 +8,4 @@ Instructions:
 - Run `npm run dev`
 - Open the page and have fun!
 
-![pageImg](https://user-images.githubusercontent.com/97468260/222993817-42bb1711-5c39-40eb-b328-9231e834706d.PNG)
+![pageImg](https://user-images.githubusercontent.com/97468260/222993878-dd8e9f23-faca-4298-9de0-ae4f75805d99.PNG)
